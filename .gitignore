@@ -176,3 +176,5 @@ tags
 
 # wandb
 wandb
+output_images/
+._.DS_Store
